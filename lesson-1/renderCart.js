@@ -19,3 +19,4 @@ const renderPage = list => {
 };                
 
 renderPage(products);
+//render
