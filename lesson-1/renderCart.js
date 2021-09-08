@@ -34,7 +34,7 @@ class GoodsList {
 }
 
 class ProductItem {
-    constructor(product, img = 'https://via.placeholder.com/200x150'){
+    constructor(product, img = ''){
         this.title = product.title;
         this.price = product.price;
         this.id = product.id;
